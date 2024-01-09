@@ -1,0 +1,6 @@
+chapter_3/img_align_celeba/*
+chapter_4/dataset/*
+chapter_4/dataset_dp/*
+chapter_4/__pycache__/*
+*.pyc
+*.zip
