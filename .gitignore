@@ -4,3 +4,10 @@ chapter_4/dataset_dp/*
 chapter_4/__pycache__/*
 *.pyc
 *.zip
+chapter_4/DCGAN/checkpoint/*
+*.png
+*.jpg
+
+chapter_4/DCGAN/logs/*
+chapter_4/DCGAN/models/*
+chapter_4/DCGAN/models/discriminator/variables/variables.data-00000-of-00001
