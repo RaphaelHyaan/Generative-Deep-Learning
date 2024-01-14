@@ -10,4 +10,6 @@ chapter_4/DCGAN/checkpoint/*
 
 chapter_4/DCGAN/logs/*
 chapter_4/DCGAN/models/*
-chapter_4/DCGAN/models/discriminator/variables/variables.data-00000-of-00001
+chapter_4/WGAN/logs/*
+chapter_4/WGAN/*/*
+

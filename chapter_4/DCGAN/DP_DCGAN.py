@@ -6,7 +6,7 @@ import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from DCGAN.DP_discriminator import Discriminator
 from DCGAN.DP_generator import Generator
-CUDA_LAUNCH_BLOCKING=1
+
 class DCGAN(nn.Module):
     def __init__(self, discriminator, generator, latent_dim):
         super(DCGAN, self).__init__()
