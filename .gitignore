@@ -13,3 +13,4 @@ chapter_4/DCGAN/models/*
 chapter_4/WGAN/logs/*
 chapter_4/WGAN/*/*
 
+*.pth
