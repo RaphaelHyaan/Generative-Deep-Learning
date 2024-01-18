@@ -15,3 +15,6 @@ chapter_4/WGAN/*/*
 
 *.pth
 datas/*
+chapiter_8/unet.onnx
+chapiter_8/checkpoint/*
+chapiter_8/logs/*
