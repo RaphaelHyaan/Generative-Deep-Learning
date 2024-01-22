@@ -18,3 +18,8 @@ datas/*
 chapiter_8/unet.onnx
 chapiter_8/checkpoint/*
 chapiter_8/logs/*
+chapiter_10/logs/*
+chapiter_10/checkpoint/*
+
+*.pb
+chapiter_10/models/gpt/variables/*
